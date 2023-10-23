@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+
+    <string name="note_title">Judul Note</string>
+    <string name="note_time">00/00/0000</string>
+    <string name="note_desc">Lorem ipsum dolor es amet ....</string>
+</resources>
